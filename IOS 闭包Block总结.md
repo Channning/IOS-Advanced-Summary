@@ -1274,11 +1274,5 @@ static void __main_block_func_0(struct __main_block_impl_0 *__cself) {
 - 书籍：『Objective-C 高级编程 iOS 与OS X 多线程和内存管理』
 - 博文：[《Objective-C 高级编程》干货三部曲（二）：Blocks篇](https://juejin.im/post/6844903474312773646)
 
-作者：ITCharge
 
-链接：[https://juejin.cn/post/6844903875795779591](https://juejin.cn/post/6844903875795779591)
-
-来源：稀土掘金
-
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 

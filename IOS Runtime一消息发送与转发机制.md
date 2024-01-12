@@ -457,11 +457,4 @@ void funMethod(id obj, SEL _cmd) {
 - 博文：[iOS Runtime 详解](https://link.juejin.cn/?target=https%3A%2F%2Fwww.jianshu.com%2Fp%2F6ebda3cd8052)
 - 博文：[新手也看得懂的 iOS Runtime 教程](https://link.juejin.cn/?target=https%3A%2F%2Fwww.jianshu.com%2Fp%2F361c9136cf3a)
 
-作者：ITCharge
-
-链接：[https://juejin.cn/post/6844903878794706957](https://juejin.cn/post/6844903878794706957)
-
-来源：稀土掘金
-
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
